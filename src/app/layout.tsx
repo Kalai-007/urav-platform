@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "URAVCTC",
-  description: "URAVCTC",
+  description: "URAV is a modern corporate consulting and career platform that connects organizations, students, recruiters, and professionals through webinars, training, certifications, and job opportunities",
 };
 
 export default function RootLayout({
